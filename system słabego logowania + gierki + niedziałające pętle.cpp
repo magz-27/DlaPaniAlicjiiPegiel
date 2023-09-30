@@ -21,7 +21,7 @@ int main()
 	string captcha = "C4pt3ha";
 	string captchacheck;
 	//nie wiem jak zapętlić program, tak aby nie kończył sie po np. odgadnięciu liczby lub podaniu swojej ulubionej liczby.
-	//Chciałbym aby po skończonej grze, pojawiał sie komunikat "czy chcesz sie wylogować? wpisz 0 poniżej aby sie wylogować, wpisz 1 poniżej aby sie nie wylogowywać. **2
+	//Chciałbym aby po skończonej grze, pojawiał sie komunikat "czy chcesz sie wylogować? wpisz 0 poniżej aby sie wylogować, wpisz 1 poniżej aby sie nie wylogowywać." **2
 	/*if (1 == 1) {
 		if (wylogujsie == 0) {
 			exit(0);
